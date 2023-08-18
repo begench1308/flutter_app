@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1078070228949",
+    "project_id": "video-gosmak-4c293",
+    "storage_bucket": "video-gosmak-4c293.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1078070228949:android:188e1c3866242ad6eb2f5c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1078070228949-fg8dbpaos6h436g2vv39c18qkvqqoagq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXeDh3CDkcHuGfn89kvArDzfMtJdIDwpc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1078070228949-fg8dbpaos6h436g2vv39c18qkvqqoagq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
